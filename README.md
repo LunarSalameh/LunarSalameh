@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&fontColor=f1faee&height=300&section=header&text=Farouk%20Zemmouri&fontSize=60&capsule_render&animation=fadeIn&fontAlignY=40&desc=Front-End%20Web%20Developer.&fontAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=e8beac&text=Lunar%20Salameh&section=header&reversal=true&textBg=false&fontColor=382f2c&animation=fadeIn&desc=Full%20Stack%20Developer&descAlign=50&descSize=26&descAlignY=27)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=e8beac&text=About%20Me&section=header&reversal=true&textBg=false&fontColor=f6e2d9&animation=twinkling&descAlign=50&descAlignY=50)
 
  ### <p align="center">I'm a Front-End Web Developer with a passion for creating innovative and sustainable web solutions. I have completed a full stack web development bootcamp at Re:Coded, where I learned and applied HTML, CSS, JavaScript, React.js, Next.js, Git, and GitHub workflows. I have also worked on four projects with diverse teams, where I demonstrated my coding skills, problem-solving abilities, attention to detail, collaboration, communication, and project management.</p>
  ### <p align="center">The Bootcamp was my starting point journy in full stack development, after that i had another 2 internships in Full stack devlopment where I had a hands on experience and created multiple projects during both internships.</p>
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Tech%20Skills&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=e8beac&text=Skills&section=header&reversal=true&textBg=false&fontColor=f6e2d9&animation=twinkling&descAlign=50&descAlignY=50)
 
 <br>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Github%20Stats&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=e8beac&text=Github%20Stats&section=header&reversal=true&textBg=false&fontColor=f6e2d9&animation=twinkling&descAlign=50&descAlignY=50)
 
 <br>
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Let's%20Connect&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=e8beac&text=Let's%20Connect&section=header&reversal=true&textBg=false&fontColor=f6e2d9&animation=twinkling&descAlign=50&descAlignY=50)
 
 
 <div align="center">
